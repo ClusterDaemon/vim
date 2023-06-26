@@ -16,3 +16,7 @@
 [submodule "pack/plugins/start/vim-obsession"]
 	path = pack/plugins/start/vim-obsession
 	url = git@github.com:tpope/vim-obsession.git
+[submodule "vim-go"]
+	tag = v1.28
+	commit = 8c4db1c61432511a3aa55971dabb2171cbcba7b1
+	branch = 8c4db1c61432511a3aa55971dabb2171cbcba7b1
