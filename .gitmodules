@@ -1,22 +1,15 @@
 [submodule "pack/plugins/start/ale"]
 	path = pack/plugins/start/ale
-	url = git@github.com:dmerejkowsky/vim-ale.git
-[submodule "pack/plugins/start/ctrlp"]
-	path = pack/plugins/start/ctrlp
-	url = git@github.com:kien/ctrlp.vim.git
+	url = https://github.com/dense-analysis/ale.git
 [submodule "pack/plugins/start/vim-go"]
 	path = pack/plugins/start/vim-go
-	url = git@github.com:fatih/vim-go.git
+	url = https://github.com/fatih/vim-go.git
 [submodule "pack/plugins/start/vim-hcl"]
 	path = pack/plugins/start/vim-hcl
-	url = git@github.com:jvirtanen/vim-hcl.git
+	url = https://github.com/jvirtanen/vim-hcl.git
 [submodule "pack/plugins/start/vim-terraform"]
 	path = pack/plugins/start/vim-terraform
-	url = git@github.com:hashivim/vim-terraform.git
+	url = https://github.com/hashivim/vim-terraform.git
 [submodule "pack/plugins/start/vim-obsession"]
 	path = pack/plugins/start/vim-obsession
-	url = git@github.com:tpope/vim-obsession.git
-[submodule "vim-go"]
-	tag = v1.28
-	commit = 8c4db1c61432511a3aa55971dabb2171cbcba7b1
-	branch = 8c4db1c61432511a3aa55971dabb2171cbcba7b1
+	url = https://github.com/tpope/vim-obsession.git
